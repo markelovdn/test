@@ -1,4 +1,1 @@
-
-<?= $_POST['ID_students'];
-?>
-
+<?= $_POST['ID_students'];?>
